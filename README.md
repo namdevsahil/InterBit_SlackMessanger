@@ -1,1 +1,1 @@
-﻿# Slack_
+I developed a Slack Messenger web application that allows users to send messages directly to Slack channels or users from a custom-built frontend interface. The backend interacts with the Slack API using an authenticated bot token, fetching available channels and users dynamically. The system supports real-time messaging, dynamic dropdowns for channel/user selection, and error handling for API failures. The architecture is separated into a frontend (React) and backend (Express), ensuring maintainability and scalability.
